@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="A_Actor" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIRAQAFABABBAAAIBAAAAAgQgAAcFEEAQAEAEAAASIg=</HashCode>
+      <FileName>A_Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="A_Boss" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAhABAAAAAAEAAACAAQAEAAAYAgGEAAAgBCACAAA=</HashCode>
+      <FileName>A_Boss.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="A_Bullet" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAQAAAAEAAAQAAEAAIAACAAAAAAIAAAEA=</HashCode>
+      <FileName>A_Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="A_Enemy" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAIAAAAABAAAQAAAAEAAAEAEAYAAIEAAAAAAABAAA=</HashCode>
+      <FileName>A_Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="A_EnemyBullets" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAQAAEAEAAAQAAEAAIAACAAAAAAAAAAAA=</HashCode>
+      <FileName>A_EnemyBullets.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="A_PlayerFighter" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAQAAAQAIgAAAAAAQwAAAAAKAAAMAAggAAgABEA=</HashCode>
+      <FileName>A_PlayerFighter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletOrderOP" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>A_PlayerFighter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="A_ScoreRank" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQEAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>A_ScoreRank.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="G_GameScene">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQBAAAAAAwAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>G_GameScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="G_MainGame" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgEAECQCAAABAQIVAAAAAgCICQAAAAAABACACAQQA=</HashCode>
+      <FileName>G_MainGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
